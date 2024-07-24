@@ -1,0 +1,136 @@
+﻿CREATE TABLE employee(
+code int primary key identity,
+firstname varchar(20),
+lastname varchar(20),
+pesword2 varchar (20) 
+);
+
+
+CREATE TABLE passwords (
+code int primary key identity,
+pesword varchar(20),
+ExpiryDate date,
+active bit, 
+user1 INT FOREIGN KEY REFERENCES employee(code)
+);
+
+
+
+CREATE TABLE timeclock (
+code int primary key identity,
+Entrance datetime,
+exits datetime,
+user1 INT FOREIGN KEY REFERENCES employee(code)
+);
+
+
+SELECT * FROM timeclock
+SELECT * FROM passwords
+select * from employee
+
+declare @pesword varchar (20) = '555', @pesword2 varchar (20) = '12' ;
+
+declare @firstname varchar (20) = '' , @lastname varchar(20) =  '', @code INT,  @answer varchar(200);
+
+
+if exists (select * from employee where pesword2 = @pesword2)
+	begin
+		SELECT @code = ( SELECT code from employee where pesword2 = @pesword2)
+	end
+else
+	begin 
+     	 insert into employee values (@firstname,  @lastname,  @pesword2)
+		 select @code = @@IDENTITY
+	end
+
+ 
+
+
+IF exists (select * from Passwords WHERE user1=@code)
+	begin
+		if exists (select pesword From Passwords
+					WHERE user1=@code AND pesword=@pesword
+					AND active=1 )
+				begin
+					if exists (select pesword From Passwords
+					WHERE user1=@code AND pesword=@pesword
+					AND active=1 AND  ExpiryDate>=getdate())
+						begin
+							IF exists (SELECT * FROM timeclock
+							WHERE user1=@code AND exits is null)
+								begin 								
+									UPDATE timeclock set exits=GETDATE()
+									WHERE user1=@code AND exits is null;
+									select @answer='Exit time: ' + CONVERT (NVARCHAR, GETDATE(), 121);
+								end
+							else
+								begin
+								INSERT INTO timeclock  VALUES ( GETDATE(), null, @code);
+								select @answer='Entry time: ' + CONVERT (NVARCHAR, GETDATE(), 121);
+								end
+						end
+					ELSE
+						begin
+						select @answer= 'you need to update your password';
+						end
+				end
+		ELSE
+			begin
+			select @answer = 'wrong password';
+			end
+	end
+ELSE
+	begin
+		INSERT INTO	Passwords VALUES ( @pesword,
+		DATEADD(day, 180, GETDATE()),
+		1,@code)
+		select @answer= 'You created a worker and password';
+	end
+
+select @answer
+
+--שינוי סיסמה
+
+declare @id varchar(20) ,
+@oldpass varchar (20) ,
+@newpass varchar(20) ,
+@confirm varchar(20) 
+
+declare
+@answer varchar(200)
+
+
+if exists (select * from employee where Employee.pesword2 = @id)
+	begin
+		declare @code int = (select Employee.code from Employee where pesword2 = @id)
+		
+		IF @oldpass = (SELECT pesword FROM passwords WHERE user1 = @code)
+			begin
+				if (@newpass = @confirm)
+					begin 
+						update Passwords set active =0 where  @code = user1 and Passwords.pesword = @password;
+						insert into Passwords values(@newpassword,DATEADD(DAY, 180, GETDATE()),@ansewrId,1)
+						select @answer = 'your'
+						--UPDATE passwords set pesword = @newpass;
+						--select @answer = 'Your password has been successfully changed!'
+					end
+				else 
+					begin
+						select @answer = 'The password does not match'
+					end		
+			end
+		else
+			begin 
+				select @answer = 'Old password cannot be used'
+			end
+	end
+	
+else 
+	begin
+		select @answer = 'The user does not exist'
+	end
+
+select @answer
+
+
+

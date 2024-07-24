@@ -1,0 +1,10 @@
+C:\Users\internet\source\repos\Hebrewdate\bin\Debug\Hebrewdate.exe.config
+C:\Users\internet\source\repos\Hebrewdate\bin\Debug\Hebrewdate.exe
+C:\Users\internet\source\repos\Hebrewdate\bin\Debug\Hebrewdate.pdb
+C:\Users\internet\source\repos\Hebrewdate\obj\Debug\Hebrewdate.csproj.AssemblyReference.cache
+C:\Users\internet\source\repos\Hebrewdate\obj\Debug\Hebrewdate.Form1.resources
+C:\Users\internet\source\repos\Hebrewdate\obj\Debug\Hebrewdate.Properties.Resources.resources
+C:\Users\internet\source\repos\Hebrewdate\obj\Debug\Hebrewdate.csproj.GenerateResource.cache
+C:\Users\internet\source\repos\Hebrewdate\obj\Debug\Hebrewdate.csproj.CoreCompileInputs.cache
+C:\Users\internet\source\repos\Hebrewdate\obj\Debug\Hebrewdate.exe
+C:\Users\internet\source\repos\Hebrewdate\obj\Debug\Hebrewdate.pdb

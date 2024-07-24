@@ -1,0 +1,12 @@
+C:\Users\internet\source\repos\Timeclock\bin\Debug\Timeclock.exe.config
+C:\Users\internet\source\repos\Timeclock\bin\Debug\Timeclock.exe
+C:\Users\internet\source\repos\Timeclock\bin\Debug\Timeclock.pdb
+C:\Users\internet\source\repos\Timeclock\obj\Debug\Timeclock.csproj.AssemblyReference.cache
+C:\Users\internet\source\repos\Timeclock\obj\Debug\Timeclock.Form1.resources
+C:\Users\internet\source\repos\Timeclock\obj\Debug\Timeclock.Properties.Resources.resources
+C:\Users\internet\source\repos\Timeclock\obj\Debug\Timeclock.csproj.GenerateResource.cache
+C:\Users\internet\source\repos\Timeclock\obj\Debug\Timeclock.csproj.CoreCompileInputs.cache
+C:\Users\internet\source\repos\Timeclock\obj\Debug\Timeclock.exe
+C:\Users\internet\source\repos\Timeclock\obj\Debug\Timeclock.pdb
+C:\Users\internet\source\repos\Timeclock\obj\Debug\Timeclock.Form2.resources
+C:\Users\internet\source\repos\Timeclock\obj\Debug\Timeclock.Learning.resources

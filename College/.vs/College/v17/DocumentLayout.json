@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\internet\\source\\repos\\College\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9DA144-A926-482B-A1D6-B95B28BB451A}|..\\students\\students.csproj|c:\\users\\internet\\source\\repos\\students\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9DA144-A926-482B-A1D6-B95B28BB451A}|..\\students\\students.csproj|c:\\users\\internet\\source\\repos\\students\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9DA144-A926-482B-A1D6-B95B28BB451A}|..\\students\\students.csproj|c:\\users\\internet\\source\\repos\\students\\studebtmeneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9DA144-A926-482B-A1D6-B95B28BB451A}|..\\students\\students.csproj|c:\\users\\internet\\source\\repos\\students\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E717AE8-1441-4869-8C60-17E529D02A63}|College.csproj|c:\\users\\internet\\source\\repos\\college\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E717AE8-1441-4869-8C60-17E529D02A63}|College.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E717AE8-1441-4869-8C60-17E529D02A63}|College.csproj|c:\\users\\internet\\source\\repos\\college\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E717AE8-1441-4869-8C60-17E529D02A63}|College.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9DA144-A926-482B-A1D6-B95B28BB451A}|..\\students\\students.csproj|c:\\users\\internet\\source\\repos\\students\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E717AE8-1441-4869-8C60-17E529D02A63}|College.csproj|c:\\users\\internet\\source\\repos\\college\\collegemeneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E717AE8-1441-4869-8C60-17E529D02A63}|College.csproj|solutionrelative:collegemeneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E717AE8-1441-4869-8C60-17E529D02A63}|College.csproj|c:\\users\\internet\\source\\repos\\college\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E717AE8-1441-4869-8C60-17E529D02A63}|College.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9DA144-A926-482B-A1D6-B95B28BB451A}|..\\students\\students.csproj|c:\\users\\internet\\source\\repos\\students\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E717AE8-1441-4869-8C60-17E529D02A63}|College.csproj|c:\\users\\internet\\source\\repos\\college\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E717AE8-1441-4869-8C60-17E529D02A63}|College.csproj|solutionrelative:dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 120,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\College\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\College\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:19:32.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\students\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\students\\Form2.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\students\\Form2.cs",
+              "RelativeToolTip": "..\\students\\Form2.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:29:12.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\students\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\students\\Form2.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\students\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\students\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:26:16.02Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dbconnection.cs",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\students\\Dbconnection.cs",
+              "RelativeDocumentMoniker": "..\\students\\Dbconnection.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\students\\Dbconnection.cs",
+              "RelativeToolTip": "..\\students\\Dbconnection.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAHsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:21:07.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "studebtmeneger.cs",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\students\\studebtmeneger.cs",
+              "RelativeDocumentMoniker": "..\\students\\studebtmeneger.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\students\\studebtmeneger.cs",
+              "RelativeToolTip": "..\\students\\studebtmeneger.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:18:13.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\students\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\students\\Form1.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\students\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\students\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:17:35.664Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\students\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\students\\Form1.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\students\\Form1.cs",
+              "RelativeToolTip": "..\\students\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:44:39.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dbconnection.cs",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\College\\Dbconnection.cs",
+              "RelativeDocumentMoniker": "Dbconnection.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\College\\Dbconnection.cs",
+              "RelativeToolTip": "Dbconnection.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:45:14.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Collegemeneger.cs",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\College\\Collegemeneger.cs",
+              "RelativeDocumentMoniker": "Collegemeneger.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\College\\Collegemeneger.cs",
+              "RelativeToolTip": "Collegemeneger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:43:32.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\College\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\College\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:10:41.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\College\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\College\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:10:32.34Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
