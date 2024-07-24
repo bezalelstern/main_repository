@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\internet\\source\\repos\\Orderingfood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9D02F0-7CB1-4CEE-9EF5-977990492BC0}|..\\guest\\guest.csproj|c:\\users\\internet\\source\\repos\\guest\\guestmeneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9D02F0-7CB1-4CEE-9EF5-977990492BC0}|..\\guest\\guest.csproj|c:\\users\\internet\\source\\repos\\guest\\dbcooactguest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9D02F0-7CB1-4CEE-9EF5-977990492BC0}|..\\guest\\guest.csproj|c:\\users\\internet\\source\\repos\\guest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9D02F0-7CB1-4CEE-9EF5-977990492BC0}|..\\guest\\guest.csproj|c:\\users\\internet\\source\\repos\\guest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD04DF-1E5B-4F1D-B28F-50AA0B0A1D02}|Orderingfood.csproj|c:\\users\\internet\\source\\repos\\orderingfood\\dbconnaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD04DF-1E5B-4F1D-B28F-50AA0B0A1D02}|Orderingfood.csproj|solutionrelative:dbconnaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD04DF-1E5B-4F1D-B28F-50AA0B0A1D02}|Orderingfood.csproj|c:\\users\\internet\\source\\repos\\orderingfood\\hostmeneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD04DF-1E5B-4F1D-B28F-50AA0B0A1D02}|Orderingfood.csproj|solutionrelative:hostmeneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD04DF-1E5B-4F1D-B28F-50AA0B0A1D02}|Orderingfood.csproj|c:\\users\\internet\\source\\repos\\orderingfood\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD04DF-1E5B-4F1D-B28F-50AA0B0A1D02}|Orderingfood.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD04DF-1E5B-4F1D-B28F-50AA0B0A1D02}|Orderingfood.csproj|c:\\users\\internet\\source\\repos\\orderingfood\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3AD04DF-1E5B-4F1D-B28F-50AA0B0A1D02}|Orderingfood.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD04DF-1E5B-4F1D-B28F-50AA0B0A1D02}|Orderingfood.csproj|c:\\users\\internet\\source\\repos\\orderingfood\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD04DF-1E5B-4F1D-B28F-50AA0B0A1D02}|Orderingfood.csproj|solutionrelative:orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD04DF-1E5B-4F1D-B28F-50AA0B0A1D02}|Orderingfood.csproj|c:\\users\\internet\\source\\repos\\orderingfood\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3AD04DF-1E5B-4F1D-B28F-50AA0B0A1D02}|Orderingfood.csproj|solutionrelative:orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9D02F0-7CB1-4CEE-9EF5-977990492BC0}|..\\guest\\guest.csproj|c:\\users\\internet\\source\\repos\\guest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 120,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "orders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\Orderingfood\\orders.cs",
+              "RelativeDocumentMoniker": "orders.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\Orderingfood\\orders.cs [Design]",
+              "RelativeToolTip": "orders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:15:34.434Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\Orderingfood\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\Orderingfood\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:30:09.067Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\guest\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\guest\\Form2.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\guest\\Form2.cs",
+              "RelativeToolTip": "..\\guest\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:06:30.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\guest\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\guest\\Form1.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\guest\\Form1.cs",
+              "RelativeToolTip": "..\\guest\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAFYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:28:51.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Guestmeneger.cs",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\guest\\Guestmeneger.cs",
+              "RelativeDocumentMoniker": "..\\guest\\Guestmeneger.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\guest\\Guestmeneger.cs",
+              "RelativeToolTip": "..\\guest\\Guestmeneger.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:31:01.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dbcooactguest.cs",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\guest\\Dbcooactguest.cs",
+              "RelativeDocumentMoniker": "..\\guest\\Dbcooactguest.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\guest\\Dbcooactguest.cs",
+              "RelativeToolTip": "..\\guest\\Dbcooactguest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:33:19.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "orders.cs",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\Orderingfood\\orders.cs",
+              "RelativeDocumentMoniker": "orders.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\Orderingfood\\orders.cs",
+              "RelativeToolTip": "orders.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:06:01.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hostmeneger.cs",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\Orderingfood\\Hostmeneger.cs",
+              "RelativeDocumentMoniker": "Hostmeneger.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\Orderingfood\\Hostmeneger.cs",
+              "RelativeToolTip": "Hostmeneger.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAuwEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:29:57.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\guest\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\guest\\Form1.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\guest\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\guest\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:28:43.755Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\Orderingfood\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\Orderingfood\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:37:12.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dbconnaction.cs",
+              "DocumentMoniker": "C:\\Users\\internet\\source\\repos\\Orderingfood\\Dbconnaction.cs",
+              "RelativeDocumentMoniker": "Dbconnaction.cs",
+              "ToolTip": "C:\\Users\\internet\\source\\repos\\Orderingfood\\Dbconnaction.cs",
+              "RelativeToolTip": "Dbconnaction.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAG8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:33:21.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

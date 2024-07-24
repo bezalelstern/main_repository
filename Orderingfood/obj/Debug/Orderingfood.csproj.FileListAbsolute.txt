@@ -1,0 +1,12 @@
+C:\Users\internet\source\repos\Orderingfood\bin\Debug\Orderingfood.exe.config
+C:\Users\internet\source\repos\Orderingfood\bin\Debug\Orderingfood.exe
+C:\Users\internet\source\repos\Orderingfood\bin\Debug\Orderingfood.pdb
+C:\Users\internet\source\repos\Orderingfood\obj\Debug\Orderingfood.csproj.AssemblyReference.cache
+C:\Users\internet\source\repos\Orderingfood\obj\Debug\Orderingfood.Form1.resources
+C:\Users\internet\source\repos\Orderingfood\obj\Debug\Orderingfood.orders.resources
+C:\Users\internet\source\repos\Orderingfood\obj\Debug\Orderingfood.Properties.Resources.resources
+C:\Users\internet\source\repos\Orderingfood\obj\Debug\Orderingfood.csproj.GenerateResource.cache
+C:\Users\internet\source\repos\Orderingfood\obj\Debug\Orderingfood.csproj.CoreCompileInputs.cache
+C:\Users\internet\source\repos\Orderingfood\obj\Debug\Orderingfood.exe
+C:\Users\internet\source\repos\Orderingfood\obj\Debug\Orderingfood.pdb
+C:\Users\internet\source\repos\Orderingfood\obj\Debug\Orderingfood.learning.resources
