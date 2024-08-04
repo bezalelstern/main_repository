@@ -1,0 +1,42 @@
+﻿
+@model Library.Models.Genre
+
+@{
+    ViewData["Title"] = "Add Shelf to Genre";
+}
+
+<h1>Add Shelf to @Model.Name</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="AddShelf" method="post">
+            <input type="hidden" name="genreId" value="@Model.Id" />
+
+            <div class="form-group">
+                <label for="Height" class="control-label">Height</label>
+                <input type="number" name="height" class="form-control" min="1" />
+                <span asp-validation-for="Shelves[0].Height" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="Width" class="control-label">Width</label>
+                <input type="number" name="width" class="form-control" min="1" />
+                <span asp-validation-for="Shelves[0].Width" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Add Shelf" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Details" asp-controller="Genre" asp-route-id="@Model.Id">Back to Genre Details</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
